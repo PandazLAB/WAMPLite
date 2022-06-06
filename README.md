@@ -6,7 +6,7 @@ Simple scripts to use WAMP Server easily.
 
 * Once installed, you need to run wamp once. Once its open, you can exit it fully from the tray. 
 
-* Download the WAMPlite Master from here [Download WAMPlite Master](https://github.com/PandazLAB/WAMPLite/archive/refs/heads/main.zip)
+* Download the WAMPlite Master from here [WAMPlite Master](https://github.com/PandazLAB/WAMPLite/archive/refs/heads/main.zip)
 
 * Copy the files from the .zip folder from github to your c drive in a new folder called WAMPlite.
 
