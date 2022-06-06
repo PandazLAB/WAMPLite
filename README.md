@@ -12,8 +12,6 @@ Simple scripts to use WAMP Server easily.
 
 * Inside the script folder are the scripts you need for easily controlling wamp.
 
-* *You can even set it to run at boot.
-
 * To make your life easier, you can make shortcuts to the .bat scripts and put them on your desktop. 
 
 Thats it, just a simple way to Start, Stop and Restart Wamp. 
