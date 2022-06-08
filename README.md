@@ -8,7 +8,7 @@ Simple scripts to use WAMP Server easily.
 
 * Download the WAMPlite Master from here [WAMPlite Master](https://github.com/PandazLAB/WAMPLite/archive/refs/heads/main.zip)
 
-* Extract the files from the .zip folder to your c drive in a new folder called WAMPlite. (example: C:\WAMPlite)
+* Extract the files from the .zip folder to your C drive in a new folder called WAMPlite. (example: C:\WAMPlite)
 
 * Inside the script folder are the scripts you need for easily controlling wamp.
 
